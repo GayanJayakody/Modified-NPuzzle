@@ -1,4 +1,4 @@
-A* to solve the modified n-puzzle problem
+A* search algorithm to solve the modified n-puzzle problem
 
 Suppose the standard n-puzzle problem is modified so that there are two empty locations (instead of
 one) allowing you to pick any one tile adjacent to any one of the two empty locations and move it to
