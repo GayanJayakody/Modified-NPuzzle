@@ -25,3 +25,6 @@ Goal configuration
 - 11 10 13
 
 6 8 14 12
+
+
+See assignment-search for more details.
